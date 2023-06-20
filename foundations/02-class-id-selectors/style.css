@@ -1,0 +1,22 @@
+.bg-color
+{
+    background-color: lightcoral;
+}
+
+.bg-color.size
+{
+    font-size: 24px;
+}
+
+#num2
+{
+    color:blue;
+    font-size: 30px;
+}
+
+#num4
+{
+    background-color: lightgreen;
+    font-weight: bold;
+    font-size: 18px;
+}
